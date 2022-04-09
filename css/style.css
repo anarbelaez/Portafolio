@@ -1,0 +1,35 @@
+/* Navbar */
+
+.header-area .main-menu .navbar{
+    background: #FFFF66;
+    padding: 0.7em;
+}
+
+/* .header-area {
+    border-top: 8px solid lightgreen;
+    border-right: 8px solid mediumpurple;
+    border-bottom: 8px solid hotpink;
+    border-left: 8px solid #97FDFC;
+} */
+
+.my-name {
+    font-size: 1.5em;
+    letter-spacing: 4px;
+    color: black;
+    margin-left: 15px !important;
+}
+
+.navbar li{
+    padding: 0 1em;
+}
+
+.navbar .nav-link {
+    color: black;
+}
+
+.navbar .navbar-toggler {
+    border: 1px solid transparent;
+    color: black;
+}
+
+/* Navbar */
